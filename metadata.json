@@ -1,0 +1,5 @@
+{
+  "name": "MathGrid Worksheet Generator",
+  "description": "A customizable math worksheet generator with grid-aligned problems for addition, subtraction, multiplication, and long division.",
+  "requestFramePermissions": []
+}
